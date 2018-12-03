@@ -1,4 +1,4 @@
-/*C82*/SET SCHEMA PUBLIC
+/*C12*/SET SCHEMA PUBLIC
 drop table signing_up if exists
 drop sequence hibernate_sequence if exists
 create sequence hibernate_sequence start with 1 increment by 1
