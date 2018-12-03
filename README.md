@@ -11,7 +11,7 @@ It uses:
 
 ### Card wall
 
-https://trello.com/b/ylOfI00F/java-engineering-project
+REPLACE THIS TEXT WITH A LINK TO YOUR CARD WALL
 
 ### Design
 
