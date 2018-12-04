@@ -5,3 +5,4 @@ dependency-reduced-pom.xml
 *.iml
 .log
 /src/main/resources/static/built
+pom.xml
