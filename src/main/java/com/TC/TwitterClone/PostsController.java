@@ -29,7 +29,7 @@ public class PostsController {
                 .collect(Collectors.toList());
     }
 
-    @RequestMapping(value = "/create", method = RequestMethod.GET)
+    @RequestMapping(value = "/create", method = RequestMethod.POST)
     public List<Posts> create (@RequestBody Posts post){
         messageContent.add(post);
         return messageContent;

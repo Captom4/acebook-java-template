@@ -4,6 +4,10 @@ public class Posts {
     private String username;
     private String postBody;
 
+    public Posts(){
+
+    }
+
     public Posts(String username, String postBody){
         this.username = username;
         this.postBody = postBody;
